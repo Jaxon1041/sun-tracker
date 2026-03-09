@@ -1,6 +1,6 @@
 # <b> Sun-Tracking Solor Panel</b>
 
-####  This is a project to demonstrate the ease of making an extra-efficient solar panel, a device that can help us maintain the health of our planet. 
+This is a project to demonstrate the ease of making an extra-efficient solar panel, a device that can help us maintain the health of our planet. 
 
 ### Purpose:
 My purpose for this project was to demonstrate the simplicity of certain designs and how they can improve the world around us. I hope my project will help others to have a more open mind toward helping make advances in our society.
