@@ -71,3 +71,23 @@ except KeyboardInterrupt:
     servo.deinit()
     print("\nTracking stopped by user.")
 ```
+
+### How to make:
+
+1. Acquire all the needed materials (parts list on separate page)
+2. Build 2 equilateral triangles using your popsicle sticks.
+3. Cut the tip off of both triangles and adjust as needed.
+4. On one of the triangles, take your G9 servo and glue it to the top of the triangle with the sticker side facing up. 
+5. On your other triangle, create a plateau.
+6. On the bottom of your solar panel, attach 2 popsicle sticks at a right angle.
+7. Glue one right angle to the servo and set the other on the plateau of the triangle. 
+8. Make support beams across the length of the contraption using 3 popsicle sticks per support
+9. Connect your wires as follows:
+<br><i> Orange/Yellow - GPIO 16 (Physical Pin 21 on a Pico)  </i>
+<br><i> Red  - 5V / VBUS(Physical Pin 40 on a Pico)  </i>
+<br><i> Brown/BlackGround - GND Pin (e.g., Physical Pin 3, 8, or 23)  </i>
+11. Flash your Raspberry Pi Pico with the code found in the GitHub repository using a PC.
+12. Upon applying power to your Pico, it should run flashed to it, thus completing the project.
+
+### Full breakdown:
+<i><u> https://docs.google.com/document/d/14PJKMzGBhagE3aKXIkFxrqwVEEk05f9XCx2wF0PEei8/edit?usp=sharing
